@@ -1,4 +1,4 @@
-comp:Lock()
+comp:Lock() -- prevent unfortune while script is running
 local selectedSavers = comp:GetToolList(true, "Saver")
 local allSavers = comp:GetToolList(false, "Saver")
 for i, currentSaver in pairs(allSavers) do

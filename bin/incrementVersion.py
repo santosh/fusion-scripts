@@ -2,6 +2,7 @@
 # expects vXXX where X is an int
 import sys
 import os
+# comp/composition and fu/fusion are availabe under fusion
 
 file_ = "C:\\Users\\Santosh Kumar\\Desktop\\Iqra Digital Art\\Iqra_Digital_Art_v001.comp"
 basename = os.path.basename(file_) # get only filename with extension
