@@ -1,0 +1,2 @@
+* At startup, enable hiq, disable mb, disable proxy and autoproxy, selective update
+* Create a restart script.
