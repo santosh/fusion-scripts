@@ -1,4 +1,17 @@
 Blackmagic Fusion scrits.
 
-Written in a combination of programming language including FusionScript, Lua
-and Python.
+Written in a combination of programming language including FusionScript, Lua and Python.
+
+<!-- # Install  -->
+
+<!-- # Configure -->
+
+<!-- # Highlights -->
+
+<!-- # Contribute -->
+
+<!-- # FAQ -->
+
+<!-- # Related -->
+
+<!-- # License -->
