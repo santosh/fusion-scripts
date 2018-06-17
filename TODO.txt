@@ -1,2 +1,13 @@
-* At startup, enable hiq, disable mb, disable proxy and autoproxy, selective update
+* At startup, enable hiq, disable mb, disable proxy and autoproxy, selective update to some.
+
+Detect the startup inpoint.
+On Compload. Grab the comp. 
+GetAttrs() SetAttrs() or the prefs?
+Modify the comp (don't forget to lock and unlock). 
+
+comp.SetPrefs({COMPB_HiQ = True, COMPB_Proxy = False})
+
 * Create a restart script.
+* Increment comp version.
+
+comp.Save()
